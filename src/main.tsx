@@ -1,0 +1,1 @@
+import {createRoot} from 'react-dom/client';import Practice from './Practice';import './style.css';createRoot(document.getElementById('root')!).render(<main className="homePage nefPage"><Practice/></main>);

@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "p1",
+    "track": 2,
+    "sound": "æ",
+    "text": "Can I have an apple?",
+    "es": "¿Me das una manzana?",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-01.mp3",
+    "words": [
+      {
+        "text": "Can",
+        "start": 0.0,
+        "end": 0.78
+      },
+      {
+        "text": "I",
+        "start": 0.78,
+        "end": 0.98
+      },
+      {
+        "text": "have",
+        "start": 0.98,
+        "end": 1.22
+      },
+      {
+        "text": "an",
+        "start": 1.22,
+        "end": 1.38
+      },
+      {
+        "text": "apple?",
+        "start": 1.38,
+        "end": 1.58
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "track": 2,
+    "sound": "æ",
+    "text": "Pat has a fat cat in her flat.",
+    "es": "Pat tiene un gato gordo en su piso.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-02.mp3",
+    "words": [
+      {
+        "text": "Pat",
+        "start": 0.0,
+        "end": 0.64
+      },
+      {
+        "text": "has",
+        "start": 0.64,
+        "end": 0.92
+      },
+      {
+        "text": "a",
+        "start": 0.92,
+        "end": 1.08
+      },
+      {
+        "text": "fat",
+        "start": 1.08,
+        "end": 1.46
+      },
+      {
+        "text": "cat",
+        "start": 1.46,
+        "end": 1.88
+      },
+      {
+        "text": "in",
+        "start": 1.88,
+        "end": 2.26
+      },
+      {
+        "text": "her",
+        "start": 2.26,
+        "end": 2.48
+      },
+      {
+        "text": "flat.",
+        "start": 2.48,
+        "end": 2.78
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "track": 2,
+    "sound": "æ",
+    "text": "That's an apple, that's a hat, that's a bag and that's a map.",
+    "es": "Eso es una manzana, un sombrero, una bolsa y un mapa.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-03.mp3",
+    "words": [
+      {
+        "text": "That's",
+        "start": 0.0,
+        "end": 0.76
+      },
+      {
+        "text": "an",
+        "start": 0.76,
+        "end": 0.86
+      },
+      {
+        "text": "apple,",
+        "start": 0.86,
+        "end": 1.22
+      },
+      {
+        "text": "that's",
+        "start": 2.0,
+        "end": 2.58
+      },
+      {
+        "text": "a",
+        "start": 2.58,
+        "end": 2.68
+      },
+      {
+        "text": "hat,",
+        "start": 2.68,
+        "end": 3.06
+      },
+      {
+        "text": "that's",
+        "start": 3.94,
+        "end": 4.52
+      },
+      {
+        "text": "a",
+        "start": 4.52,
+        "end": 4.6
+      },
+      {
+        "text": "bag",
+        "start": 4.6,
+        "end": 5.02
+      },
+      {
+        "text": "and",
+        "start": 5.02,
+        "end": 5.84
+      },
+      {
+        "text": "that's",
+        "start": 5.84,
+        "end": 6.3
+      },
+      {
+        "text": "a",
+        "start": 6.3,
+        "end": 6.36
+      },
+      {
+        "text": "map.",
+        "start": 6.36,
+        "end": 6.64
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "When does it start?",
+    "es": "¿Cuándo empieza?",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-04.mp3",
+    "words": [
+      {
+        "text": "When",
+        "start": 0.0,
+        "end": 0.76
+      },
+      {
+        "text": "does",
+        "start": 0.76,
+        "end": 1.02
+      },
+      {
+        "text": "it",
+        "start": 1.02,
+        "end": 1.16
+      },
+      {
+        "text": "start?",
+        "start": 1.16,
+        "end": 1.58
+      }
+    ]
+  },
+  {
+    "id": "p5",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "It starts at three.",
+    "es": "Empieza a las tres.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-05.mp3",
+    "words": [
+      {
+        "text": "It",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "text": "starts",
+        "start": 0.52,
+        "end": 0.94
+      },
+      {
+        "text": "at",
+        "start": 0.94,
+        "end": 1.28
+      },
+      {
+        "text": "three.",
+        "start": 1.28,
+        "end": 1.66
+      }
+    ]
+  },
+  {
+    "id": "p6",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "He's starting to feel tired.",
+    "es": "Empieza a sentirse cansado.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-06.mp3",
+    "words": [
+      {
+        "text": "He's",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "text": "starting",
+        "start": 0.52,
+        "end": 0.92
+      },
+      {
+        "text": "to",
+        "start": 0.92,
+        "end": 1.3
+      },
+      {
+        "text": "feel",
+        "start": 1.3,
+        "end": 1.54
+      },
+      {
+        "text": "tired.",
+        "start": 1.54,
+        "end": 1.94
+      }
+    ]
+  },
+  {
+    "id": "p7",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "This sound is really hard!",
+    "es": "¡Este sonido es muy difícil!",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-07.mp3",
+    "words": [
+      {
+        "text": "This",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "text": "sound",
+        "start": 0.52,
+        "end": 0.86
+      },
+      {
+        "text": "is",
+        "start": 0.86,
+        "end": 1.06
+      },
+      {
+        "text": "really",
+        "start": 1.06,
+        "end": 1.46
+      },
+      {
+        "text": "hard!",
+        "start": 1.46,
+        "end": 1.92
+      }
+    ]
+  },
+  {
+    "id": "p8",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "This bread is hard!",
+    "es": "¡Este pan está duro!",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-08.mp3",
+    "words": [
+      {
+        "text": "This",
+        "start": 0.0,
+        "end": 0.44
+      },
+      {
+        "text": "bread",
+        "start": 0.44,
+        "end": 0.78
+      },
+      {
+        "text": "is",
+        "start": 0.78,
+        "end": 0.98
+      },
+      {
+        "text": "hard!",
+        "start": 0.98,
+        "end": 1.4
+      }
+    ]
+  },
+  {
+    "id": "p9",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "I find physics hard.",
+    "es": "La física me resulta difícil.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-09.mp3",
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.5
+      },
+      {
+        "text": "find",
+        "start": 0.5,
+        "end": 0.82
+      },
+      {
+        "text": "physics",
+        "start": 0.82,
+        "end": 1.26
+      },
+      {
+        "text": "hard.",
+        "start": 1.26,
+        "end": 1.82
+      }
+    ]
+  },
+  {
+    "id": "p10",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "He's a really smart guy.",
+    "es": "Es un tipo muy listo.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-10.mp3",
+    "words": [
+      {
+        "text": "He's",
+        "start": 0.0,
+        "end": 0.5
+      },
+      {
+        "text": "a",
+        "start": 0.5,
+        "end": 0.66
+      },
+      {
+        "text": "really",
+        "start": 0.66,
+        "end": 0.98
+      },
+      {
+        "text": "smart",
+        "start": 0.98,
+        "end": 1.5
+      },
+      {
+        "text": "guy.",
+        "start": 1.5,
+        "end": 1.9
+      }
+    ]
+  },
+  {
+    "id": "p11",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "Wow! You're dressed really smart!",
+    "es": "¡Vaya! ¡Vas muy bien vestido!",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-11.mp3",
+    "words": [
+      {
+        "text": "Wow!",
+        "start": 0.0,
+        "end": 0.74
+      },
+      {
+        "text": "You're",
+        "start": 1.02,
+        "end": 1.36
+      },
+      {
+        "text": "dressed",
+        "start": 1.36,
+        "end": 1.58
+      },
+      {
+        "text": "really",
+        "start": 1.58,
+        "end": 1.94
+      },
+      {
+        "text": "smart!",
+        "start": 1.94,
+        "end": 2.26
+      }
+    ]
+  },
+  {
+    "id": "p12",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "We need some smart people for this project.",
+    "es": "Necesitamos a gente lista para este proyecto.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-12.mp3",
+    "words": [
+      {
+        "text": "We",
+        "start": 0.0,
+        "end": 0.46
+      },
+      {
+        "text": "need",
+        "start": 0.46,
+        "end": 0.66
+      },
+      {
+        "text": "some",
+        "start": 0.66,
+        "end": 0.96
+      },
+      {
+        "text": "smart",
+        "start": 0.96,
+        "end": 1.42
+      },
+      {
+        "text": "people",
+        "start": 1.42,
+        "end": 1.72
+      },
+      {
+        "text": "for",
+        "start": 1.72,
+        "end": 1.98
+      },
+      {
+        "text": "this",
+        "start": 1.98,
+        "end": 2.12
+      },
+      {
+        "text": "project.",
+        "start": 2.12,
+        "end": 2.36
+      }
+    ]
+  },
+  {
+    "id": "p13",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "Which part of the article relates to the chart?",
+    "es": "¿Qué parte del artículo se refiere al gráfico?",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-13.mp3",
+    "words": [
+      {
+        "text": "Which",
+        "start": 0.0,
+        "end": 0.62
+      },
+      {
+        "text": "part",
+        "start": 0.62,
+        "end": 1.08
+      },
+      {
+        "text": "of",
+        "start": 1.08,
+        "end": 1.28
+      },
+      {
+        "text": "the",
+        "start": 1.28,
+        "end": 1.46
+      },
+      {
+        "text": "article",
+        "start": 1.46,
+        "end": 2.06
+      },
+      {
+        "text": "relates",
+        "start": 2.06,
+        "end": 2.54
+      },
+      {
+        "text": "to",
+        "start": 2.54,
+        "end": 2.84
+      },
+      {
+        "text": "the",
+        "start": 2.84,
+        "end": 2.98
+      },
+      {
+        "text": "chart?",
+        "start": 2.98,
+        "end": 3.24
+      }
+    ]
+  },
+  {
+    "id": "p14",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "The dog barked and then bit my arm harder than a shark, leaving a mark!",
+    "es": "El perro ladró y luego me mordió el brazo más fuerte que un tiburón, dejando una marca.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-14.mp3",
+    "words": [
+      {
+        "text": "The",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "text": "dog",
+        "start": 0.48,
+        "end": 0.68
+      },
+      {
+        "text": "barked",
+        "start": 0.68,
+        "end": 1.36
+      },
+      {
+        "text": "and",
+        "start": 1.36,
+        "end": 1.46
+      },
+      {
+        "text": "then",
+        "start": 1.46,
+        "end": 1.62
+      },
+      {
+        "text": "bit",
+        "start": 1.62,
+        "end": 1.88
+      },
+      {
+        "text": "my",
+        "start": 1.88,
+        "end": 2.1
+      },
+      {
+        "text": "arm",
+        "start": 2.1,
+        "end": 2.56
+      },
+      {
+        "text": "harder",
+        "start": 2.56,
+        "end": 2.98
+      },
+      {
+        "text": "than",
+        "start": 2.98,
+        "end": 3.24
+      },
+      {
+        "text": "a",
+        "start": 3.24,
+        "end": 3.38
+      },
+      {
+        "text": "shark,",
+        "start": 3.38,
+        "end": 3.8
+      },
+      {
+        "text": "leaving",
+        "start": 4.1,
+        "end": 4.4
+      },
+      {
+        "text": "a",
+        "start": 4.4,
+        "end": 4.64
+      },
+      {
+        "text": "mark!",
+        "start": 4.64,
+        "end": 4.9
+      }
+    ]
+  },
+  {
+    "id": "p15",
+    "track": 4,
+    "sound": "ɑː",
+    "text": "Be smart: don't drive your car through the park in the dark!",
+    "es": "Sé inteligente: no conduzcas por el parque a oscuras.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-15.mp3",
+    "words": [
+      {
+        "text": "Be",
+        "start": 0.0,
+        "end": 0.38
+      },
+      {
+        "text": "smart:",
+        "start": 0.38,
+        "end": 0.76
+      },
+      {
+        "text": "don't",
+        "start": 1.0,
+        "end": 1.48
+      },
+      {
+        "text": "drive",
+        "start": 1.48,
+        "end": 1.7
+      },
+      {
+        "text": "your",
+        "start": 1.7,
+        "end": 1.92
+      },
+      {
+        "text": "car",
+        "start": 1.92,
+        "end": 2.2
+      },
+      {
+        "text": "through",
+        "start": 2.2,
+        "end": 2.48
+      },
+      {
+        "text": "the",
+        "start": 2.48,
+        "end": 2.66
+      },
+      {
+        "text": "park",
+        "start": 2.66,
+        "end": 2.94
+      },
+      {
+        "text": "in",
+        "start": 2.94,
+        "end": 3.14
+      },
+      {
+        "text": "the",
+        "start": 3.14,
+        "end": 3.26
+      },
+      {
+        "text": "dark!",
+        "start": 3.26,
+        "end": 3.54
+      }
+    ]
+  },
+  {
+    "id": "p16",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Here's the money.",
+    "es": "Aquí tienes el dinero.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-16.mp3",
+    "words": [
+      {
+        "text": "Here's",
+        "start": 0.0,
+        "end": 0.56
+      },
+      {
+        "text": "the",
+        "start": 0.56,
+        "end": 0.7
+      },
+      {
+        "text": "money.",
+        "start": 0.7,
+        "end": 0.9
+      }
+    ]
+  },
+  {
+    "id": "p17",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Can you give me some money?",
+    "es": "¿Me puedes dar algo de dinero?",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-17.mp3",
+    "words": [
+      {
+        "text": "Can",
+        "start": 0.0,
+        "end": 0.44
+      },
+      {
+        "text": "you",
+        "start": 0.44,
+        "end": 0.58
+      },
+      {
+        "text": "give",
+        "start": 0.58,
+        "end": 0.74
+      },
+      {
+        "text": "me",
+        "start": 0.74,
+        "end": 0.92
+      },
+      {
+        "text": "some",
+        "start": 0.92,
+        "end": 1.1
+      },
+      {
+        "text": "money?",
+        "start": 1.1,
+        "end": 1.3
+      }
+    ]
+  },
+  {
+    "id": "p18",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Do you have enough money?",
+    "es": "¿Tienes suficiente dinero?",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-18.mp3",
+    "words": [
+      {
+        "text": "Do",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "text": "you",
+        "start": 0.48,
+        "end": 0.62
+      },
+      {
+        "text": "have",
+        "start": 0.62,
+        "end": 0.74
+      },
+      {
+        "text": "enough",
+        "start": 0.74,
+        "end": 0.92
+      },
+      {
+        "text": "money?",
+        "start": 0.92,
+        "end": 1.16
+      }
+    ]
+  },
+  {
+    "id": "p19",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Does he have a son? Yes, he does.",
+    "es": "¿Él tiene un hijo? Sí, tiene.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-19.mp3",
+    "words": [
+      {
+        "text": "Does",
+        "start": 0.0,
+        "end": 0.64
+      },
+      {
+        "text": "he",
+        "start": 0.64,
+        "end": 0.82
+      },
+      {
+        "text": "have",
+        "start": 0.82,
+        "end": 0.98
+      },
+      {
+        "text": "a",
+        "start": 0.98,
+        "end": 1.12
+      },
+      {
+        "text": "son?",
+        "start": 1.12,
+        "end": 1.36
+      },
+      {
+        "text": "Yes,",
+        "start": 2.14,
+        "end": 2.32
+      },
+      {
+        "text": "he",
+        "start": 2.42,
+        "end": 2.52
+      },
+      {
+        "text": "does.",
+        "start": 2.52,
+        "end": 2.76
+      }
+    ]
+  },
+  {
+    "id": "p20",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Does she have the money? No, she doesn't.",
+    "es": "¿Ella tiene el dinero? No, no lo tiene.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-20.mp3",
+    "words": [
+      {
+        "text": "Does",
+        "start": 0.0,
+        "end": 0.46
+      },
+      {
+        "text": "she",
+        "start": 0.46,
+        "end": 0.64
+      },
+      {
+        "text": "have",
+        "start": 0.64,
+        "end": 0.8
+      },
+      {
+        "text": "the",
+        "start": 0.8,
+        "end": 0.94
+      },
+      {
+        "text": "money?",
+        "start": 0.94,
+        "end": 1.22
+      },
+      {
+        "text": "No,",
+        "start": 2.02,
+        "end": 2.26
+      },
+      {
+        "text": "she",
+        "start": 2.38,
+        "end": 2.46
+      },
+      {
+        "text": "doesn't.",
+        "start": 2.46,
+        "end": 3.0
+      }
+    ]
+  },
+  {
+    "id": "p21",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "He doesn't have enough money.",
+    "es": "Él no tiene suficiente dinero.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-21.mp3",
+    "words": [
+      {
+        "text": "He",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "text": "doesn't",
+        "start": 0.48,
+        "end": 0.98
+      },
+      {
+        "text": "have",
+        "start": 0.98,
+        "end": 1.18
+      },
+      {
+        "text": "enough",
+        "start": 1.18,
+        "end": 1.48
+      },
+      {
+        "text": "money.",
+        "start": 1.48,
+        "end": 1.76
+      }
+    ]
+  },
+  {
+    "id": "p22",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "When are they coming? They're coming on Monday.",
+    "es": "¿Cuándo vienen? Vienen el lunes.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-22.mp3",
+    "words": [
+      {
+        "text": "When",
+        "start": 0.0,
+        "end": 0.52
+      },
+      {
+        "text": "are",
+        "start": 0.52,
+        "end": 0.64
+      },
+      {
+        "text": "they",
+        "start": 0.64,
+        "end": 0.8
+      },
+      {
+        "text": "coming?",
+        "start": 0.8,
+        "end": 1.2
+      },
+      {
+        "text": "They're",
+        "start": 2.06,
+        "end": 2.3
+      },
+      {
+        "text": "coming",
+        "start": 2.3,
+        "end": 2.54
+      },
+      {
+        "text": "on",
+        "start": 2.54,
+        "end": 2.82
+      },
+      {
+        "text": "Monday.",
+        "start": 2.82,
+        "end": 3.02
+      }
+    ]
+  },
+  {
+    "id": "p23",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "The bus is coming.",
+    "es": "Viene el autobús.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-23.mp3",
+    "words": [
+      {
+        "text": "The",
+        "start": 0.0,
+        "end": 0.42
+      },
+      {
+        "text": "bus",
+        "start": 0.42,
+        "end": 0.68
+      },
+      {
+        "text": "is",
+        "start": 0.68,
+        "end": 0.98
+      },
+      {
+        "text": "coming.",
+        "start": 0.98,
+        "end": 1.28
+      }
+    ]
+  },
+  {
+    "id": "p24",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Some of my cousins aren't going to come.",
+    "es": "Algunos de mis primos no van a venir.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-24.mp3",
+    "words": [
+      {
+        "text": "Some",
+        "start": 0.0,
+        "end": 0.58
+      },
+      {
+        "text": "of",
+        "start": 0.58,
+        "end": 0.74
+      },
+      {
+        "text": "my",
+        "start": 0.74,
+        "end": 0.92
+      },
+      {
+        "text": "cousins",
+        "start": 0.92,
+        "end": 1.32
+      },
+      {
+        "text": "aren't",
+        "start": 1.32,
+        "end": 1.8
+      },
+      {
+        "text": "going",
+        "start": 1.8,
+        "end": 1.96
+      },
+      {
+        "text": "to",
+        "start": 1.96,
+        "end": 2.16
+      },
+      {
+        "text": "come.",
+        "start": 2.16,
+        "end": 2.4
+      }
+    ]
+  },
+  {
+    "id": "p25",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "My cousin's young son loves running around and having fun.",
+    "es": "Al hijo pequeño de mi primo le encanta correr y divertirse.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-25.mp3",
+    "words": [
+      {
+        "text": "My",
+        "start": 0.0,
+        "end": 0.56
+      },
+      {
+        "text": "cousin's",
+        "start": 0.56,
+        "end": 1.26
+      },
+      {
+        "text": "young",
+        "start": 1.26,
+        "end": 1.42
+      },
+      {
+        "text": "son",
+        "start": 1.42,
+        "end": 1.88
+      },
+      {
+        "text": "loves",
+        "start": 1.88,
+        "end": 2.5
+      },
+      {
+        "text": "running",
+        "start": 2.5,
+        "end": 2.92
+      },
+      {
+        "text": "around",
+        "start": 2.92,
+        "end": 3.28
+      },
+      {
+        "text": "and",
+        "start": 3.28,
+        "end": 3.52
+      },
+      {
+        "text": "having",
+        "start": 3.52,
+        "end": 3.8
+      },
+      {
+        "text": "fun.",
+        "start": 3.8,
+        "end": 4.18
+      }
+    ]
+  },
+  {
+    "id": "p26",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "You can touch the gun, but use gloves.",
+    "es": "Puedes tocar la pistola, pero usa guantes.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-26.mp3",
+    "words": [
+      {
+        "text": "You",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "text": "can",
+        "start": 0.48,
+        "end": 0.7
+      },
+      {
+        "text": "touch",
+        "start": 0.7,
+        "end": 0.96
+      },
+      {
+        "text": "the",
+        "start": 0.96,
+        "end": 1.26
+      },
+      {
+        "text": "gun,",
+        "start": 1.26,
+        "end": 1.5
+      },
+      {
+        "text": "but",
+        "start": 1.74,
+        "end": 1.8
+      },
+      {
+        "text": "use",
+        "start": 1.8,
+        "end": 2.22
+      },
+      {
+        "text": "gloves.",
+        "start": 2.22,
+        "end": 2.54
+      }
+    ]
+  },
+  {
+    "id": "p27",
+    "track": 7,
+    "sound": "ʌ",
+    "text": "Some of us love having lunch in the sun.",
+    "es": "A algunos nos encanta comer al sol.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-27.mp3",
+    "words": [
+      {
+        "text": "Some",
+        "start": 0.0,
+        "end": 0.42
+      },
+      {
+        "text": "of",
+        "start": 0.42,
+        "end": 0.6
+      },
+      {
+        "text": "us",
+        "start": 0.6,
+        "end": 0.74
+      },
+      {
+        "text": "love",
+        "start": 0.74,
+        "end": 1.12
+      },
+      {
+        "text": "having",
+        "start": 1.12,
+        "end": 1.56
+      },
+      {
+        "text": "lunch",
+        "start": 1.56,
+        "end": 1.84
+      },
+      {
+        "text": "in",
+        "start": 1.84,
+        "end": 2.1
+      },
+      {
+        "text": "the",
+        "start": 2.1,
+        "end": 2.22
+      },
+      {
+        "text": "sun.",
+        "start": 2.22,
+        "end": 2.44
+      }
+    ]
+  },
+  {
+    "id": "p28",
+    "track": 12,
+    "sound": "review",
+    "text": "It was fun at the bar that night.",
+    "es": "Fue divertido en el bar aquella noche.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-28.mp3",
+    "words": [
+      {
+        "text": "It",
+        "start": 0.0,
+        "end": 0.42
+      },
+      {
+        "text": "was",
+        "start": 0.42,
+        "end": 0.62
+      },
+      {
+        "text": "fun",
+        "start": 0.62,
+        "end": 1.1
+      },
+      {
+        "text": "at",
+        "start": 1.1,
+        "end": 1.56
+      },
+      {
+        "text": "the",
+        "start": 1.56,
+        "end": 1.76
+      },
+      {
+        "text": "bar",
+        "start": 1.76,
+        "end": 2.06
+      },
+      {
+        "text": "that",
+        "start": 2.06,
+        "end": 2.48
+      },
+      {
+        "text": "night.",
+        "start": 2.48,
+        "end": 2.86
+      }
+    ]
+  },
+  {
+    "id": "p29",
+    "track": 12,
+    "sound": "review",
+    "text": "I parked the car next to the dark bus at the back of the barn.",
+    "es": "Aparqué el coche junto al autobús oscuro, detrás del granero.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-29.mp3",
+    "words": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 0.48
+      },
+      {
+        "text": "parked",
+        "start": 0.48,
+        "end": 0.86
+      },
+      {
+        "text": "the",
+        "start": 0.86,
+        "end": 1.18
+      },
+      {
+        "text": "car",
+        "start": 1.18,
+        "end": 1.58
+      },
+      {
+        "text": "next",
+        "start": 1.58,
+        "end": 2.14
+      },
+      {
+        "text": "to",
+        "start": 2.14,
+        "end": 2.48
+      },
+      {
+        "text": "the",
+        "start": 2.48,
+        "end": 2.64
+      },
+      {
+        "text": "dark",
+        "start": 2.64,
+        "end": 3.0
+      },
+      {
+        "text": "bus",
+        "start": 3.0,
+        "end": 3.44
+      },
+      {
+        "text": "at",
+        "start": 3.44,
+        "end": 4.02
+      },
+      {
+        "text": "the",
+        "start": 4.02,
+        "end": 4.2
+      },
+      {
+        "text": "back",
+        "start": 4.2,
+        "end": 4.46
+      },
+      {
+        "text": "of",
+        "start": 4.46,
+        "end": 4.82
+      },
+      {
+        "text": "the",
+        "start": 4.82,
+        "end": 5.0
+      },
+      {
+        "text": "barn.",
+        "start": 5.0,
+        "end": 5.26
+      }
+    ]
+  },
+  {
+    "id": "p30",
+    "track": 12,
+    "sound": "review",
+    "text": "In March I saw John running with a hat in his hand and a cat in a cart.",
+    "es": "En marzo vi a John corriendo con un sombrero en la mano y un gato en un carrito.",
+    "src": "/celia-phonetics/audio/pronunciation/phrases-v2/phrase-30.mp3",
+    "words": [
+      {
+        "text": "In",
+        "start": 0.0,
+        "end": 0.54
+      },
+      {
+        "text": "March",
+        "start": 0.54,
+        "end": 0.82
+      },
+      {
+        "text": "I",
+        "start": 0.82,
+        "end": 1.22
+      },
+      {
+        "text": "saw",
+        "start": 1.22,
+        "end": 1.54
+      },
+      {
+        "text": "John",
+        "start": 1.54,
+        "end": 1.98
+      },
+      {
+        "text": "running",
+        "start": 1.98,
+        "end": 2.66
+      },
+      {
+        "text": "with",
+        "start": 2.66,
+        "end": 2.98
+      },
+      {
+        "text": "a",
+        "start": 2.98,
+        "end": 3.12
+      },
+      {
+        "text": "hat",
+        "start": 3.12,
+        "end": 3.54
+      },
+      {
+        "text": "in",
+        "start": 3.54,
+        "end": 3.88
+      },
+      {
+        "text": "his",
+        "start": 3.88,
+        "end": 4.12
+      },
+      {
+        "text": "hand",
+        "start": 4.12,
+        "end": 4.56
+      },
+      {
+        "text": "and",
+        "start": 4.56,
+        "end": 4.96
+      },
+      {
+        "text": "a",
+        "start": 4.96,
+        "end": 5.1
+      },
+      {
+        "text": "cat",
+        "start": 5.1,
+        "end": 5.44
+      },
+      {
+        "text": "in",
+        "start": 5.44,
+        "end": 5.82
+      },
+      {
+        "text": "a",
+        "start": 5.82,
+        "end": 5.98
+      },
+      {
+        "text": "cart.",
+        "start": 5.98,
+        "end": 6.28
+      }
+    ]
+  }
+]
