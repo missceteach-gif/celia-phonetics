@@ -21,5 +21,11 @@ createRoot(document.getElementById('root')!).render(<main className="homePage ne
 {[['1','Hello, everybody!','Revisión complementaria 1A–1C'],['2','Your desk & you','2A–2C · Ordenar frases y vocabulario'],['3','Great Britain?','3A–3C · Present simple & jobs']].map(([n,t,d])=><a href={'/celia-phonetics/a1/nef-activities/unit-'+n+'/'} key={n} style={{display:'grid',gap:8,padding:24,border:'2px solid #c9dfd9',borderRadius:18,background:'#fff',color:'#174741',textDecoration:'none'}}>
 <b style={{fontSize:'2rem'}}>📚 Unit {n}</b><strong style={{fontSize:'1.2rem'}}>{t}</strong><span>{d}</span><b>JUGAR · PLAY →</b></a>)}
 </div></section>
+<section style={{margin:'26px 0 38px',padding:24,borderRadius:20,background:'#fff5df',border:'2px solid #e8c887'}}>
+<p style={{fontSize:'1rem',fontWeight:900,color:'#8a5b25'}}>A1 · READING & WRITING · HOMEWORK PREVIEW</p>
+<h2 style={{fontSize:'clamp(1.6rem,4vw,2.3rem)',margin:'8px 0'}}>Messages, notes &amp; notices</h2>
+<p style={{fontSize:'1.1rem',marginBottom:16}}>Mensajes, notas y avisos · Comprensión, imperativos y tres tareas de escritura. <b>Versión de práctica:</b> las respuestas todavía no se envían a la profesora.</p>
+<a href="/celia-phonetics/a1/homework/messages-notes-notices/" style={{display:'inline-block',padding:'14px 22px',background:'#176e63',color:'#fff',borderRadius:12,fontWeight:800,textDecoration:'none'}}>OPEN THE ACTIVITY · ABRIR ACTIVIDAD →</a>
+</section>
 <h2 style={{marginBottom:9}}>A · CAT /æ/, CAR /ɑː/, CUP /ʌ/</h2>
 </section><Practice/></main>);
