@@ -3,4 +3,10 @@ execFileSync('tar',['-xzf','audio-a.tar.gz']);await cp('audio-12.mp3','public/au
 // Keep the A1 Unit 1–3 picture and grammar games as self-contained pages.
 for(const unit of ['1','2','3']){const dir='dist/a1/nef-activities/unit-'+unit;await mkdir(dir,{recursive:true});await cp('a1/nef-activities/unit-'+unit+'/index.html',dir+'/index.html');}
 await mkdir('dist/a1/homework/messages-notes-notices',{recursive:true});await cp('a1/homework/messages-notes-notices/index.html','dist/a1/homework/messages-notes-notices/index.html');
+// Publish Unit 3 vocabulary pages (original textbook images and audio).
+for (const lesson of ['3a-verb-phrases','3b-jobs','3c-question-words']) {
+  const dir = 'a1/unit-3/' + lesson;
+  await mkdir('dist/' + dir, { recursive: true });
+  await cp(dir + '/index.html', 'dist/' + dir + '/index.html');
+}
 await writeFile('dist/.nojekyll','');
